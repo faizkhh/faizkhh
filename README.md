@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Data Structure & Algorithm**
-
 - 📫 How to reach me **faizfzx99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
