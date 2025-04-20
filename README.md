@@ -40,10 +40,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizkhh&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <h3 align="left">📌 Top Languages:</h3>
 <p align="center">
