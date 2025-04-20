@@ -9,6 +9,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-faiz-47680a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-faiz-47680a259/" height="30" width="40" /></a>
 <a href="https://instagram.com/aizzzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aizzzf" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/aizzzf/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/LeetCode_Logo.png" alt="LeetCode Profile" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/channel/ucytt7wxnvpr0enpoegrwmia" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
+</a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucytt7wxnvpr0enpoegrwmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytt7wxnvpr0enpoegrwmia" height="30" width="40" /></a>
 </p>
 
