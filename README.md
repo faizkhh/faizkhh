@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Mohammad Faiz Alam</h1>
-<h3 align="center">A Passionate Full-Stack Java Developer 🚀</h3>
+<h1 align="center">Hola Amigo, I'm Mohammad Faiz Alam</h1>
+<h3 align="center">Full-Stack Java Developer 🚀</h3>
+<p align="center"><em>“Engineer who codes with purpose, scales with structure, and learns endlessly.”</em></p>
 
 <p align="center">
   📫 <strong>Reach me at:</strong> <a href="mailto:faizfzx99@gmail.com">faizfzx99@gmail.com</a>
