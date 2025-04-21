@@ -1,4 +1,4 @@
-<h1 align="center">Hola Amigo, I'm Mohammad Faiz Alam</h1>
+<h1 align="center">Hola, I'm Mohammad Faiz Alam</h1>
 <h3 align="center">Full-Stack Java Developer 🚀</h3>
 <p align="center"><em>“Engineer who codes with purpose, scales with structure, and learns endlessly.”</em></p>
 
